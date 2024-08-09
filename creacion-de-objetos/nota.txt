@@ -1,0 +1,12 @@
+Los objetos son unidades que se generan a apartir de una clase
+y reciben de esta sus comportamientos y atributos que pueden tener
+valores diferentes.
+
+
+Cada objeto se forma a partir del constructor de su clase
+
+El constructor es un metodo especial que permite iniciar
+las propiedades de cada objeto  con valores distintos
+
+
+Para declarar el constructor de una clase realiza lo siguiente:

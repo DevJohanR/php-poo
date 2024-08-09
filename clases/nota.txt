@@ -1,0 +1,17 @@
+Primero se aplica la abstraccion para crear el semenjante informatico de una entidad PARA IDENTIFICAR ATRIBUTOS Y COMPORTAMIENTOS
+
+
+Escoger cualquier entidad del mundo real. 
+
+Ejemplo : Vehiculo
+
+Escribe una lista con las principales cualidades de la entidad para determinar sus atributos:
+
+Ejemplo : modelo, color, matricula del vehiculo
+
+Realiza un nuevo listado donde puedas ver las acciones que puede hacer la entidad que escogimos:
+
+Ejemplo: Comportamientos: Encender, apagar, avanzar, frenar
+
+
+¿Listo? ¡Estamos listos para crear la Clase! ¡Crea un nuevo archivo con el nombre de la entidad!
